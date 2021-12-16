@@ -1,5 +1,5 @@
 <?php
-
+	$appName="Aplicación de prueba"
 ?>
 <html>
 	<head>
